@@ -1,0 +1,13 @@
+body {
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+    text-align: left;
+    text-decoration: double;
+    margin: 2cap;
+    padding-left: 1.8em;
+}
+
+u {
+    color: blue;
+}

@@ -1,0 +1,15 @@
+img {
+    display: inline-block;
+    width: 280px;
+}
+
+div {
+    font-family: 'Times New Roman', Times, serif;
+
+    border: 1px solid;
+    border-color: black;
+    width: 600px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}

@@ -1,0 +1,25 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 700px;
+}
+
+li {
+    background-color: antiquewhite;
+    color: brown;
+    border: 2px solid violet;
+    border-left: 6px solid red;
+
+}
+
+button {
+    font-size: x-large;
+}
